@@ -33,5 +33,4 @@ Um cronômetro simples feito em que realiza uma contagem regressiva com base no 
 💡 Dicas
 
     Ideal para usar como temporizador durante estudos, descanso ou exercícios rápidos.
-
     Pode ser adaptado para incluir minutos ou alertas sonoros ao fim do tempo.
