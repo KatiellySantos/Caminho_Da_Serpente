@@ -46,11 +46,11 @@ Além disso:
 
 💡 Exemplo de Saída
 
-Digite seu sexo (homem/mulher): mulher
-Digite sua idade: 70
-Digite seu peso (kg): 65
-Digite sua altura (m): 1.60
-Seu IMC é 25.39. Classificação: Sobrepeso (IMC considerado adequado para idosos)
+- Digite seu sexo (homem/mulher): mulher
+  - Digite sua idade: 70
+- Digite seu peso (kg): 65
+  - Digite sua altura (m): 1.60
+- **Seu IMC é 25.39. Classificação: Sobrepeso (IMC considerado adequado para idosos)**
 
 
 
