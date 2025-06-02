@@ -31,8 +31,8 @@ Este projeto é um simples gerenciador de tarefas. Ele permite adicionar, remove
    ```bash
    python bloco_de_tarefas.py
 
-💡 Dicas de Uso
+## 💡 Dicas de Uso
 
-    As tarefas são armazenadas no arquivo tarefas.txt, que será criado automaticamente.
-    Ao remover uma tarefa, digite o número correspondente listado no menu.
-    O programa continua rodando até você escolher a opção 4. Sair.
+- As tarefas são armazenadas no arquivo tarefas.txt, que será criado automaticamente.
+- Ao remover uma tarefa, digite o número correspondente listado no menu.
+- O programa continua rodando até você escolher a opção 4. Sair.
