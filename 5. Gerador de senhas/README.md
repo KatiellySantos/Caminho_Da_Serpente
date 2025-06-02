@@ -36,9 +36,9 @@ Este projeto simples gera uma senha segura composta por letras, números e símb
 
 🛠️ Exemplo de Uso
 
-Defina a quantidade de caracteres para a senha: 12
-Senha gerada: a8B#eF1!Lp@9
+- Defina a quantidade de caracteres para a senha: 12
+- Senha gerada: a8B#eF1!Lp@9
 
 🔒 Importância
 
-Senhas seguras ajudam a proteger seus dados pessoais, redes sociais, e-mails e sistemas. Este gerador é útil para criar combinações fortes e difíceis de adivinhar.
+- Senhas seguras ajudam a proteger seus dados pessoais, redes sociais, e-mails e sistemas. Este gerador é útil para criar combinações fortes e difíceis de adivinhar.
