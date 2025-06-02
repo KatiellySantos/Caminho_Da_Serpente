@@ -45,10 +45,10 @@ Este projeto simula o funcionamento de um caixa eletrônico simples, que realiza
 
 🛠️ Exemplo de Uso
 
-Digite o valor do saque: 376
-1 nota(s) de 200
-1 nota(s) de 100
-1 nota(s) de 50
-1 nota(s) de 20
-1 nota(s) de 5
-0 nota(s) de 1
+    Digite o valor do saque: 376
+    1 nota(s) de 200
+    1 nota(s) de 100
+    1 nota(s) de 50
+    1 nota(s) de 20
+    1 nota(s) de 5
+    0 nota(s) de 1
