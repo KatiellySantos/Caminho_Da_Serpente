@@ -34,11 +34,11 @@ Este projeto simples gera uma senha segura composta por letras, números e símb
 3. Insira a quantidade de caracteres desejada
 4. Receba sua senha aleatória na tela
 
-🛠️ Exemplo de Uso
+## 🛠️ Exemplo de Uso
 
 - Defina a quantidade de caracteres para a senha: 12
 - Senha gerada: a8B#eF1!Lp@9
 
-🔒 Importância
+## 🔒 Importância
 
 - Senhas seguras ajudam a proteger seus dados pessoais, redes sociais, e-mails e sistemas. Este gerador é útil para criar combinações fortes e difíceis de adivinhar.
