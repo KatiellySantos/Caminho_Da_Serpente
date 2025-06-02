@@ -44,7 +44,7 @@ Além disso:
    python calculadora_IMC.py
 3. Insira os dados solicitados
 
-💡 Exemplo de Saída
+## 💡 Exemplo de Saída
 
 - Digite seu sexo (homem/mulher): mulher
   - Digite sua idade: 70
