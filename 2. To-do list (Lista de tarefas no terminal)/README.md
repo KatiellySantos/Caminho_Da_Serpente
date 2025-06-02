@@ -1,6 +1,6 @@
 # ✅ To-Do List no Terminal
 
-Este projeto é um simples gerenciador de tarefas feito em Python. Ele permite adicionar, remover e listar tarefas diretamente no terminal. As tarefas são salvas em um arquivo `.txt`, garantindo que permaneçam armazenadas entre sessões.
+Este projeto é um simples gerenciador de tarefas. Ele permite adicionar, remover e listar tarefas diretamente no terminal. As tarefas são salvas em um arquivo `.txt`, garantindo que permaneçam armazenadas entre sessões.
 
 ---
 
@@ -26,15 +26,13 @@ Este projeto é um simples gerenciador de tarefas feito em Python. Ele permite a
 ## ▶️ Como Executar
 
 1. Certifique-se de ter o Python instalado.
-2. Salve o código em um arquivo, por exemplo: `todo_terminal.py`
+2. Salve o código em um arquivo, por exemplo: `bloco_de_tarefas.py`
 3. Execute o script no terminal:
    ```bash
-   python todo_terminal.py
+   python bloco_de_tarefas.py
 
 💡 Dicas de Uso
 
     As tarefas são armazenadas no arquivo tarefas.txt, que será criado automaticamente.
-
     Ao remover uma tarefa, digite o número correspondente listado no menu.
-
     O programa continua rodando até você escolher a opção 4. Sair.
