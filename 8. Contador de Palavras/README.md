@@ -31,7 +31,7 @@ Este script simples conta quantas palavras existem em uma frase fornecida pelo u
 
 🛠️ Exemplo de Uso
 
-Digite a frase:
-A prática leva à perfeição.
-A Frase contém 4 palavras.
+- Digite a frase:
+  - A prática leva à perfeição.
+  - A Frase contém 4 palavras.
 
