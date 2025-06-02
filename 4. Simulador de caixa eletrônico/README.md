@@ -43,12 +43,12 @@ Este projeto simula o funcionamento de um caixa eletrônico simples, que realiza
 3. Digite um valor inteiro positivo para saque
 4. Veja o detalhamento das cédulas retornadas pelo "caixa"
 
-🛠️ Exemplo de Uso
+## 🛠️ Exemplo de Uso
 
-    Digite o valor do saque: 376
-    1 nota(s) de 200
-    1 nota(s) de 100
-    1 nota(s) de 50
-    1 nota(s) de 20
-    1 nota(s) de 5
-    0 nota(s) de 1
+- Digite o valor do saque: 376
+  - 1 nota(s) de 200
+  - 1 nota(s) de 100
+  - 1 nota(s) de 50
+  - 1 nota(s) de 20
+  - 1 nota(s) de 5
+  - 0 nota(s) de 1
