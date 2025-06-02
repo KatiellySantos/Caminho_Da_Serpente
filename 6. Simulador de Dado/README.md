@@ -31,7 +31,7 @@ Este programa simula a rolagem de um dado de 6 faces. A cada ENTER pressionado, 
 3. Pressione ENTER para rolar o dado
 4. Digite s para continuar ou qualquer outra tecla para sair
 
-🛠️ Exemplo de Uso
+## 🛠️ Exemplo de Uso
 
 - Pressione ENTER para rolar o dado...
    - Você rolou: 4
