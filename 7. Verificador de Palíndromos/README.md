@@ -33,5 +33,5 @@ Este script verifica se uma palavra ou frase é um **palíndromo**, ou seja, se 
 🛠️ Exemplo de Uso
 
 Favor insira a palavra ou texto:
-A dama admirou o rim da amada
-É um palíndromo! (Lido da mesma forma de trás para frente)
+- A dama admirou o rim da amada
+  - É um palíndromo! (Lido da mesma forma de trás para frente)
