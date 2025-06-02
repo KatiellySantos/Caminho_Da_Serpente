@@ -30,7 +30,7 @@ Este script verifica se uma palavra ou frase é um **palíndromo**, ou seja, se 
    python palindromo.py
 3. Insira uma palavra ou frase quando solicitado
 
-🛠️ Exemplo de Uso
+## 🛠️ Exemplo de Uso
 
 Favor insira a palavra ou texto:
 - A dama admirou o rim da amada
