@@ -33,9 +33,9 @@ Este programa simula a rolagem de um dado de 6 faces. A cada ENTER pressionado, 
 
 🛠️ Exemplo de Uso
 
-Pressione ENTER para rolar o dado...
-Você rolou: 4
-Deseja rolar novamente? (s/n): s
-Você rolou: 2
-Deseja rolar novamente? (s/n): n
-Fim do jogo! Obrigado por jogar. 🎲
+- Pressione ENTER para rolar o dado...
+   - Você rolou: 4
+- Deseja rolar novamente? (s/n): s
+   - Você rolou: 2
+- Deseja rolar novamente? (s/n): n
+   - Fim do jogo! Obrigado por jogar. 🎲
