@@ -29,7 +29,7 @@ Este script simples conta quantas palavras existem em uma frase fornecida pelo u
    python contador_palavras.py
 3. Insira a frase desejada quando solicitado
 
-🛠️ Exemplo de Uso
+## 🛠️ Exemplo de Uso
 
 - Digite a frase:
   - A prática leva à perfeição.
